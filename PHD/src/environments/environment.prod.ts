@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyDWmm6gvQhnlWleRYcG_fizOb6Yjni-O9g",
-    authDomain: "pacienthelpdiet.firebaseapp.com",
-    databaseURL: "https://pacienthelpdiet.firebaseio.com",
-    projectId: "pacienthelpdiet",
-    storageBucket: "pacienthelpdiet.appspot.com",
-    messagingSenderId: "403891631372"
+    apiKey: "AIzaSyBoB5-2nEllPd89k_5paP3L8s-rNOjv46o",
+    authDomain: "pacienthelpdiet-a07fb.firebaseapp.com",
+    databaseURL: "https://pacienthelpdiet-a07fb.firebaseio.com",
+    projectId: "pacienthelpdiet-a07fb",
+    storageBucket: "pacienthelpdiet-a07fb.appspot.com",
+    messagingSenderId: "181578560718"
   }
 };
