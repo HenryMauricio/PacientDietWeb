@@ -12,5 +12,7 @@ export const environment = {
     projectId: "pacienthelpdiet-a07fb",
     storageBucket: "pacienthelpdiet-a07fb.appspot.com",
     messagingSenderId: "181578560718"
-  }
+
+
+     }
 };

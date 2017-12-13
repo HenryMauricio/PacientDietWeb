@@ -1,0 +1,8 @@
+<ul>
+    <div *ngFor="let paciente of pacientesObservable | async">
+        <ngb-alert type="info" [dismissible] = " false ">
+            <h3><a href="#">{{paciente.motivoIngreso}}</a> </h3>
+            <p>{{paciente.motivoIngreso}}</p>
+        </ngb-alert> 
+    </div>
+</ul>
